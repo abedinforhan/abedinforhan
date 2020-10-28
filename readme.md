@@ -1,10 +1,10 @@
 ### Hi there, I'm Forhan ,an aspiring MERN stack developer. :smiley:
 
 
-[Resume]( https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing)
+[Check My Resume]( https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing)
 
 
-[My Website](https://professional-portfolio-react.web.app/)
+[Check Me on Website](https://professional-portfolio-react.web.app/)
 
 
 ## I'm a Student,Developer,and Teacher!
