@@ -54,7 +54,7 @@ graphic design etc.
 [Server Repository](https://github.com/abedinforhan/creative-agency-server)
 [Live Site](https://creative-agency-6909f.web.app/)
 
-<img align="left" alt="Terminal" width="26px" src="/agency.gif"/>
+![Creative Agency](/agency.gif "Creative Agency")
 
 ### Volunteer Network: 
 is a full stack web based application which offers different types of volunteer jobs to the people.
@@ -64,6 +64,8 @@ is a full stack web based application which offers different types of volunteer 
 [Server Repository](https://github.com/abedinforhan/volunteer-network-server)
 [Live Site](https://volunteer-ae626.web.app)
 
+![Volunteer Network](/volunteer.gif "Volunteer Network")
+
 ### Covid Tracker: 
 is a web application for tracking daily covid19 cases.
 </br>
@@ -71,7 +73,7 @@ is a web application for tracking daily covid19 cases.
 [Repository](https://github.com/abedinforhan/Covid-Tracker)
 [Live Site](https://abedinforhan.github.io/Covid-Tracker/index.html)
 
-
+![Covid Tracker](/covid.gif "Covid Tracker")
 
 
 [Resume]:https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing
