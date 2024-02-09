@@ -17,7 +17,7 @@ I am Mezbaul Abedin Forhan, a passionate MERN developer,mentor & manager of an c
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Alt Text](./js.png)
+![Alt Text](./js.png){:height="40px" width="40px"}
 
 
 
